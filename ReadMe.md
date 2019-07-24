@@ -12,7 +12,14 @@
 
 > #### 链接
 > [TargetName] (TargetLink)
->> ### 搜索类
->> [Bing(cn)](http://cn.bing.com)
->> ### 数字科技类
->>[蓝点网](http://www.landiannews.com/)
+>> ### 搜索
+>> [必应-中国](http://cn.bing.com/)
+>> [百度](http://www.baidu.com/)
+>> ### 数字科技
+>> [蓝点网](http://www.landiannews.com/)
+>> ### 论坛
+>> [吾爱破解](http://www.52pojie.com/)
+>> [小米论坛](http://www.xiaomi.cn/)
+>> [MIUI论坛](http://www.miui.com/index.html/)
+>> ### 云盘
+>> 
