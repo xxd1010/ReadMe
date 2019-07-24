@@ -10,3 +10,9 @@
         
     }
 
+> #### 链接
+> [TargetName] (TargetLink)
+>> ### 搜索类
+>> [Bing(cn)](http://cn.bing.com)
+>> ### 数字科技类
+>>[蓝点网](http://www.landiannews.com/)
